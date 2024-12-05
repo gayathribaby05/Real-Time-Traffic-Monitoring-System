@@ -52,7 +52,5 @@ https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System/blob/f8473
 
 https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System/blob/27418ed4346cdd9e377a2017a4aeb926c9ca17e0/ss2.png
 
-
-
-
+https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System/blob/55798dadd582259ab978878ccff34d0153cbffe4/ss3.png
 
