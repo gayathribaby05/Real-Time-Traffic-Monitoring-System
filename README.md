@@ -16,7 +16,7 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
 - *High-Performance Processing*:  
   Handles 60 FPS videos efficiently using OpenCV and TensorFlow.  
 
----
+
 
 ## Tech Stack  
 - *Programming Language*: Python  
@@ -26,7 +26,6 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
   - YOLO: For object detection  
 - *Platform*: Google Colab (for development and testing)  
 
----
 
 ## Dataset  
 - *Source*: Public datasets from Kaggle or Google Datasets.  
@@ -37,11 +36,15 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
   - [Highway Traffic Dataset on Kaggle](https://www.kaggle.com/datasets)  
   - [Urban Traffic Monitoring Dataset on Google Datasets](https://datasetsearch.research.google.com/)  
 
----
-
-## Installation  
 
 ### 1. Clone the Repository  
 ```bash  
 git clone https://github.com/your-username/real-time-traffic-monitoring.git  
 cd real-time-traffic-monitoring
+
+
+![Screenshot from 2024-11-28 19-44-34](https://github.com/user-attachments/assets/127abfe7-355b-4daf-87ce-e9da5f483267)
+
+
+
+
