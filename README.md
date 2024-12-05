@@ -39,7 +39,7 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/real-time-traffic-monitoring.git  
+git clone https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System.git
 cd real-time-traffic-monitoring
 ```
 ### Run the following commands
