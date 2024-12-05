@@ -41,9 +41,10 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
 ```bash  
 git clone https://github.com/your-username/real-time-traffic-monitoring.git  
 cd real-time-traffic-monitoring
+```
 
-
-![Screenshot from 2024-11-28 19-44-34](https://github.com/user-attachments/assets/127abfe7-355b-4daf-87ce-e9da5f483267)
+###  Screenshots
+https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System/blob/f84730b79139dd2848709e37cf0dbdcc5d7b3c8b/ss1.png
 
 
 
