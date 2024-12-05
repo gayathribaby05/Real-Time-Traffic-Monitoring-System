@@ -42,7 +42,7 @@ This project focuses on developing a Real-Time Traffic Monitoring System that de
 git clone https://github.com/gayathribaby05/Real-Time-Traffic-Monitoring-System.git
 cd real-time-traffic-monitoring
 ```
-### Run the following commands
+### Run the following command
 ```bash
 pip install torch torchvision opencv-python pandas
 ```
